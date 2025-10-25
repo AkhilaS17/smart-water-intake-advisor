@@ -11,9 +11,8 @@ with open("model/lr_intake.pkl", "rb") as f:
     model = cloudpickle.load(f)
 
 # Debug: check type and attributes
-st.write(type(model))
+# st.write(type(model))
 # st.write("Has predict method:", hasattr(model, "predict"))
-
 
 # -------------------- Custom Styling --------------------
 st.markdown("""
