@@ -10,6 +10,11 @@ st.set_page_config(page_title="Smart Water Intake Advisor", layout="wide")
 with open("model/lr_intake.pkl", "rb") as f:
     model = cloudpickle.load(f)
 
+# Debug: check type and attributes
+# st.write("Model type:", type(model))
+# st.write("Has predict method:", hasattr(model, "predict"))
+
+
 # -------------------- Custom Styling --------------------
 st.markdown("""
     <style>
@@ -70,6 +75,7 @@ with right_col:
         })
 
         # Make prediction safely
+
         prediction_value = model.predict(input_data)[0]
         remaining = max(0, prediction_value - consumed)
         hydration_percentage = min(100, (consumed / prediction_value) * 100)
