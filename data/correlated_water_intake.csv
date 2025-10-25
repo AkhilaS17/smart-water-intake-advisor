@@ -1,0 +1,501 @@
+Age,Gender,Weight_kg,Height_cm,Temperature_C,Humidity,Activity_Level,Exercise_Duration_min,Health_Condition,Water_Intake_L
+56,0,69,151,30,69,Active,30,Healthy,2.21
+69,0,118,192,31,83,Active,78,Healthy,3.18
+46,1,90,150,33,34,Active,57,Chronic Issues,2.48
+32,1,102,200,32,49,Sedentary,29,Healthy,2.39
+60,0,91,185,25,69,Active,110,Healthy,3.29
+25,0,77,200,33,85,Active,76,Healthy,2.97
+38,1,118,175,32,73,Sedentary,53,Healthy,2.9
+56,1,69,178,31,30,Active,42,Healthy,2.49
+36,1,90,170,36,86,Sedentary,82,Healthy,2.53
+40,1,120,160,28,59,Sedentary,70,Chronic Issues,2.27
+28,1,44,189,29,50,Very Active,18,Chronic Issues,2.88
+28,0,68,160,30,49,Very Active,77,Healthy,4.32
+41,1,43,185,34,35,Very Active,44,Chronic Issues,3.29
+70,0,49,198,32,51,Very Active,90,Chronic Issues,6.5
+53,0,95,188,34,47,Active,107,Healthy,3.05
+57,0,56,189,32,37,Very Active,97,Healthy,5.98
+41,1,113,184,32,68,Sedentary,105,Healthy,2.84
+20,0,56,183,31,61,Active,74,Chronic Issues,2.38
+39,0,108,196,32,62,Very Active,17,Healthy,2.51
+70,1,73,173,33,82,Sedentary,54,Chronic Issues,1.0
+19,0,45,171,30,45,Active,96,Healthy,3.43
+41,0,92,154,33,41,Active,56,Chronic Issues,2.25
+61,1,105,182,27,67,Very Active,49,Healthy,6.5
+47,0,116,185,30,81,Active,85,Healthy,2.97
+55,0,82,196,27,63,Sedentary,63,Chronic Issues,1.37
+19,0,114,169,34,90,Active,85,Chronic Issues,3.13
+38,1,62,168,31,43,Sedentary,55,Chronic Issues,1.03
+50,1,94,184,32,65,Active,56,Chronic Issues,2.38
+29,1,119,192,31,62,Very Active,24,Chronic Issues,5.12
+39,0,114,166,31,52,Sedentary,114,Chronic Issues,2.69
+61,0,55,194,28,79,Active,28,Healthy,1.64
+42,1,47,192,32,74,Active,35,Chronic Issues,2.08
+66,0,43,183,29,31,Active,61,Healthy,2.19
+44,0,43,158,32,70,Sedentary,102,Healthy,2.06
+59,1,95,175,28,50,Sedentary,31,Chronic Issues,1.43
+45,1,64,151,26,31,Sedentary,113,Healthy,2.26
+33,0,106,158,31,56,Very Active,30,Chronic Issues,2.7
+32,0,106,158,32,86,Very Active,60,Chronic Issues,5.9
+64,0,66,189,25,38,Sedentary,47,Healthy,1.15
+68,1,71,166,37,30,Active,29,Healthy,2.2
+61,1,89,150,35,40,Very Active,38,Chronic Issues,3.12
+69,1,100,174,29,32,Sedentary,60,Chronic Issues,1.69
+20,1,90,192,35,81,Active,13,Healthy,2.26
+54,0,58,189,33,52,Very Active,64,Healthy,2.91
+68,1,60,191,31,55,Active,80,Healthy,2.24
+24,1,44,174,33,33,Active,101,Healthy,2.88
+38,1,81,188,32,47,Active,37,Chronic Issues,1.78
+26,1,100,184,26,84,Active,13,Chronic Issues,2.0
+56,1,61,152,33,35,Very Active,31,Chronic Issues,3.9
+35,0,60,199,33,64,Very Active,85,Chronic Issues,6.5
+21,0,109,186,32,51,Very Active,54,Healthy,3.85
+42,1,40,193,34,72,Sedentary,76,Healthy,1.89
+31,0,44,193,29,44,Very Active,95,Chronic Issues,6.5
+67,1,51,200,35,51,Active,117,Chronic Issues,2.91
+26,1,85,179,35,89,Very Active,75,Chronic Issues,5.42
+43,0,73,187,34,66,Active,97,Chronic Issues,3.03
+70,0,88,183,30,81,Sedentary,43,Chronic Issues,1.02
+19,1,117,161,36,71,Active,100,Chronic Issues,3.3
+37,1,84,168,38,41,Active,64,Chronic Issues,2.57
+45,1,66,186,33,76,Active,114,Chronic Issues,3.2
+64,0,112,193,26,78,Sedentary,10,Chronic Issues,1.0
+24,1,65,198,24,71,Very Active,81,Healthy,6.5
+61,1,86,166,28,67,Very Active,96,Chronic Issues,6.5
+25,1,95,159,25,47,Sedentary,47,Healthy,1.67
+64,0,102,198,32,74,Active,15,Healthy,2.41
+52,1,87,196,26,64,Very Active,95,Chronic Issues,6.5
+31,1,100,161,26,59,Sedentary,34,Chronic Issues,1.35
+34,0,120,165,27,53,Very Active,91,Healthy,6.5
+53,1,65,173,27,71,Sedentary,26,Healthy,1.42
+67,1,75,168,33,59,Active,70,Chronic Issues,2.03
+57,0,40,157,33,43,Very Active,21,Healthy,3.08
+21,1,47,180,28,35,Sedentary,15,Chronic Issues,1.11
+19,0,91,170,33,32,Very Active,99,Chronic Issues,4.05
+23,0,118,166,27,45,Very Active,36,Chronic Issues,6.5
+59,1,86,172,35,36,Very Active,17,Healthy,5.61
+21,1,95,186,35,81,Very Active,92,Healthy,5.96
+46,1,53,165,33,43,Sedentary,115,Chronic Issues,2.21
+35,1,67,155,26,38,Active,74,Healthy,2.64
+43,0,117,157,32,44,Sedentary,66,Healthy,2.61
+61,1,41,174,20,50,Sedentary,102,Healthy,1.44
+51,0,65,167,32,64,Sedentary,118,Healthy,2.74
+27,1,53,174,33,31,Active,108,Healthy,3.38
+53,1,98,161,33,56,Very Active,49,Healthy,4.94
+31,1,95,164,23,31,Very Active,23,Healthy,3.46
+48,0,46,175,33,64,Very Active,44,Chronic Issues,6.43
+65,1,42,190,33,47,Active,57,Healthy,2.06
+32,1,62,194,33,43,Very Active,118,Healthy,4.71
+25,1,57,175,33,49,Active,93,Healthy,3.2
+31,1,77,196,29,47,Very Active,65,Healthy,4.67
+40,0,54,181,33,39,Very Active,58,Healthy,5.52
+57,1,103,159,33,54,Sedentary,22,Healthy,1.76
+38,0,67,165,36,31,Active,70,Healthy,3.14
+33,0,113,156,31,54,Sedentary,111,Healthy,3.04
+62,0,78,166,35,90,Sedentary,58,Chronic Issues,1.44
+35,0,96,172,34,83,Sedentary,55,Healthy,2.17
+64,0,56,175,29,62,Active,71,Healthy,2.05
+70,0,83,170,28,65,Active,17,Healthy,1.98
+41,1,64,171,26,60,Very Active,52,Healthy,6.5
+43,0,56,156,34,43,Sedentary,29,Chronic Issues,1.0
+42,0,52,163,32,30,Very Active,106,Chronic Issues,6.16
+62,0,64,164,31,75,Sedentary,99,Chronic Issues,1.51
+58,1,107,156,33,45,Active,48,Chronic Issues,2.13
+46,1,49,158,33,83,Active,94,Chronic Issues,2.33
+32,0,106,200,36,75,Active,58,Chronic Issues,2.35
+62,1,57,197,35,90,Sedentary,73,Chronic Issues,1.51
+18,0,73,157,32,81,Active,71,Chronic Issues,2.57
+42,0,47,199,38,32,Sedentary,115,Chronic Issues,2.81
+24,1,79,172,32,64,Very Active,116,Chronic Issues,6.5
+26,0,81,178,29,70,Sedentary,63,Chronic Issues,1.78
+41,1,80,167,36,35,Very Active,114,Chronic Issues,6.5
+18,1,45,180,28,54,Sedentary,18,Chronic Issues,1.0
+61,0,91,179,37,42,Very Active,97,Chronic Issues,6.5
+25,0,65,188,36,82,Active,46,Chronic Issues,2.05
+41,1,103,184,28,63,Very Active,58,Chronic Issues,6.5
+28,0,98,167,33,37,Active,50,Healthy,2.79
+68,0,95,191,33,50,Active,26,Chronic Issues,1.85
+34,0,98,188,26,63,Very Active,97,Healthy,6.5
+25,1,109,166,27,33,Sedentary,30,Chronic Issues,1.1
+52,1,72,163,27,54,Sedentary,60,Chronic Issues,1.74
+52,0,92,180,32,44,Sedentary,68,Healthy,2.55
+50,1,61,173,32,33,Sedentary,48,Chronic Issues,1.46
+22,1,60,184,35,74,Sedentary,64,Healthy,1.88
+59,1,109,193,29,89,Active,50,Healthy,3.15
+56,1,109,194,30,41,Sedentary,48,Healthy,1.71
+58,1,43,183,33,61,Active,22,Chronic Issues,1.41
+45,0,114,152,32,61,Active,73,Chronic Issues,3.41
+24,0,101,186,28,57,Active,20,Chronic Issues,1.55
+26,0,101,192,30,42,Very Active,119,Healthy,6.5
+25,1,63,189,34,60,Very Active,28,Healthy,5.31
+29,1,94,175,29,43,Active,20,Chronic Issues,1.62
+51,0,48,172,28,49,Very Active,86,Chronic Issues,5.39
+50,1,42,193,28,47,Sedentary,55,Chronic Issues,1.08
+65,0,70,188,32,58,Sedentary,54,Chronic Issues,1.01
+40,0,79,164,29,89,Active,10,Chronic Issues,1.56
+41,0,75,198,30,35,Sedentary,49,Healthy,1.6
+54,1,63,153,30,61,Active,117,Healthy,3.78
+52,1,45,178,27,58,Active,28,Healthy,1.52
+61,0,105,171,33,72,Sedentary,85,Chronic Issues,2.08
+57,0,114,174,29,31,Very Active,81,Healthy,6.5
+39,0,43,162,28,89,Sedentary,81,Healthy,1.64
+44,0,118,167,31,52,Sedentary,70,Healthy,2.7
+52,1,45,182,34,48,Active,118,Healthy,3.63
+18,1,90,165,16,60,Active,21,Healthy,1.56
+52,0,101,194,31,80,Active,70,Chronic Issues,2.58
+54,0,96,191,32,34,Active,42,Healthy,2.64
+64,1,105,193,31,48,Very Active,54,Chronic Issues,5.77
+31,1,118,151,35,63,Very Active,99,Chronic Issues,5.52
+20,0,114,184,34,39,Very Active,112,Chronic Issues,6.5
+18,0,47,191,32,54,Active,101,Chronic Issues,2.79
+22,0,65,183,32,31,Active,78,Chronic Issues,2.54
+43,1,90,179,30,40,Active,17,Healthy,2.22
+31,1,84,162,38,79,Very Active,34,Healthy,2.89
+56,1,83,162,26,90,Active,100,Chronic Issues,2.47
+44,0,44,167,36,60,Sedentary,55,Chronic Issues,1.33
+26,0,109,181,27,85,Sedentary,96,Chronic Issues,2.53
+32,1,65,181,29,44,Active,39,Healthy,2.04
+32,1,107,184,25,38,Sedentary,118,Chronic Issues,3.24
+43,0,58,188,24,52,Sedentary,56,Healthy,1.83
+59,1,59,195,37,48,Very Active,96,Chronic Issues,6.43
+30,1,51,178,28,38,Active,58,Healthy,2.59
+68,0,86,198,30,64,Active,56,Chronic Issues,1.77
+49,1,40,178,24,50,Very Active,93,Healthy,4.72
+56,0,53,193,24,38,Sedentary,91,Chronic Issues,1.94
+66,0,103,165,26,57,Sedentary,27,Healthy,1.38
+69,0,77,193,33,75,Active,75,Healthy,3.1
+49,0,76,196,30,80,Sedentary,77,Healthy,2.39
+21,0,50,159,29,36,Very Active,103,Healthy,6.08
+47,0,116,179,34,45,Very Active,42,Healthy,6.5
+54,0,42,174,32,45,Active,45,Healthy,1.99
+40,1,72,188,25,89,Very Active,91,Healthy,4.77
+56,0,45,169,26,62,Very Active,110,Chronic Issues,6.5
+62,0,89,154,25,33,Active,28,Chronic Issues,1.36
+32,1,49,150,34,33,Very Active,120,Chronic Issues,4.72
+60,1,44,179,25,68,Very Active,37,Chronic Issues,4.54
+46,1,62,198,29,69,Very Active,49,Chronic Issues,3.09
+53,0,49,152,29,46,Sedentary,93,Healthy,2.45
+30,1,83,194,31,66,Active,106,Healthy,3.49
+49,0,41,163,26,68,Active,85,Healthy,3.0
+24,0,52,179,31,89,Active,24,Healthy,1.9
+68,0,79,199,31,81,Sedentary,50,Healthy,2.64
+39,0,41,153,31,58,Sedentary,48,Chronic Issues,1.24
+45,1,104,167,26,81,Active,11,Chronic Issues,1.34
+19,1,102,186,29,65,Sedentary,72,Chronic Issues,1.76
+59,0,112,174,29,89,Active,38,Chronic Issues,2.22
+62,0,56,197,29,67,Sedentary,114,Healthy,2.47
+70,0,48,150,26,68,Very Active,83,Healthy,6.5
+23,1,114,195,34,79,Very Active,75,Healthy,3.62
+45,0,54,164,32,66,Active,60,Chronic Issues,1.93
+45,0,63,158,28,81,Sedentary,84,Healthy,1.97
+61,1,77,164,16,90,Sedentary,86,Chronic Issues,1.12
+61,1,74,198,23,64,Very Active,19,Healthy,4.51
+37,0,88,173,19,36,Very Active,23,Healthy,5.0
+47,1,108,153,34,56,Sedentary,91,Chronic Issues,2.45
+28,1,101,161,30,57,Sedentary,60,Healthy,2.0
+45,0,99,186,37,51,Sedentary,82,Healthy,2.79
+42,1,89,186,38,43,Sedentary,48,Chronic Issues,1.78
+56,0,117,192,20,36,Sedentary,37,Healthy,1.58
+50,1,114,155,35,66,Sedentary,12,Chronic Issues,1.32
+18,0,48,188,30,90,Active,93,Healthy,3.0
+44,0,73,195,32,51,Sedentary,79,Healthy,1.99
+69,0,115,173,31,34,Very Active,36,Healthy,5.27
+30,1,74,160,33,84,Active,11,Healthy,2.18
+58,0,40,162,28,31,Sedentary,102,Healthy,2.52
+20,1,79,183,26,56,Very Active,47,Healthy,4.72
+56,0,103,174,24,50,Active,12,Healthy,1.6
+23,0,61,156,34,83,Very Active,25,Healthy,4.48
+25,1,99,153,35,67,Sedentary,103,Chronic Issues,2.76
+44,0,103,157,32,44,Sedentary,49,Chronic Issues,1.84
+26,0,111,169,25,50,Sedentary,11,Healthy,1.8
+54,1,50,178,37,39,Sedentary,90,Healthy,3.48
+50,0,53,200,32,52,Active,50,Chronic Issues,1.94
+68,0,99,194,35,87,Active,21,Healthy,2.61
+59,0,69,195,29,85,Very Active,44,Healthy,4.29
+61,0,74,159,25,68,Sedentary,116,Chronic Issues,2.37
+41,1,76,192,32,34,Very Active,74,Healthy,6.29
+32,1,44,183,26,30,Active,64,Healthy,2.59
+49,0,117,175,36,42,Sedentary,54,Chronic Issues,1.72
+49,1,65,190,34,50,Sedentary,88,Healthy,2.33
+41,0,101,198,27,55,Active,99,Healthy,3.28
+58,1,43,152,34,79,Active,110,Chronic Issues,2.59
+69,0,81,155,30,74,Active,94,Healthy,3.77
+66,0,57,154,32,50,Active,71,Chronic Issues,1.48
+66,0,79,154,24,82,Active,58,Healthy,2.62
+69,0,111,196,22,47,Sedentary,104,Healthy,2.28
+29,0,78,172,32,66,Active,34,Chronic Issues,1.74
+56,0,53,198,35,74,Sedentary,32,Chronic Issues,1.26
+19,1,71,158,35,61,Sedentary,33,Healthy,1.83
+20,0,90,184,22,65,Active,47,Chronic Issues,1.72
+66,1,77,169,35,46,Active,37,Chronic Issues,1.58
+54,0,62,198,35,64,Sedentary,30,Healthy,1.7
+66,1,102,191,29,78,Active,63,Healthy,2.6
+34,1,54,184,29,89,Active,116,Healthy,3.35
+66,1,64,199,29,40,Active,27,Chronic Issues,1.41
+19,0,56,167,30,50,Very Active,45,Chronic Issues,6.5
+19,0,105,166,25,81,Sedentary,108,Chronic Issues,3.22
+45,1,117,173,28,84,Very Active,54,Chronic Issues,4.55
+40,0,92,152,32,82,Active,82,Healthy,2.58
+54,1,90,181,32,55,Very Active,62,Chronic Issues,3.7
+49,0,78,184,31,33,Active,111,Healthy,3.22
+50,1,90,187,25,63,Very Active,39,Chronic Issues,6.5
+18,1,109,162,29,81,Active,69,Healthy,2.98
+36,0,45,196,29,77,Very Active,117,Healthy,3.81
+19,1,106,174,31,89,Very Active,107,Healthy,4.37
+70,0,46,158,26,47,Very Active,41,Chronic Issues,2.28
+61,1,90,153,27,69,Sedentary,76,Healthy,1.91
+43,1,111,163,28,64,Very Active,76,Healthy,5.91
+49,0,81,186,18,70,Sedentary,37,Chronic Issues,1.0
+23,0,103,183,33,58,Active,53,Healthy,2.77
+49,0,54,160,33,81,Very Active,88,Chronic Issues,6.5
+21,1,68,190,33,58,Active,50,Chronic Issues,2.21
+28,0,72,152,30,67,Active,72,Healthy,2.48
+34,1,66,177,28,71,Very Active,32,Healthy,4.13
+55,1,75,178,35,50,Sedentary,113,Chronic Issues,3.01
+41,0,68,158,30,71,Very Active,84,Healthy,4.33
+22,0,77,152,33,42,Active,57,Chronic Issues,1.82
+69,1,96,174,23,78,Active,41,Chronic Issues,1.64
+51,1,66,183,33,70,Very Active,66,Chronic Issues,5.69
+23,0,94,161,32,46,Sedentary,109,Healthy,2.89
+39,0,72,191,33,85,Sedentary,42,Chronic Issues,1.45
+28,0,107,158,23,38,Active,33,Healthy,2.72
+65,0,105,164,33,70,Active,48,Healthy,2.43
+33,0,49,189,23,30,Sedentary,43,Healthy,1.41
+50,1,44,174,30,31,Very Active,65,Healthy,6.5
+26,1,113,154,27,89,Active,37,Chronic Issues,1.89
+23,1,77,160,23,77,Sedentary,46,Healthy,1.73
+33,1,52,183,35,58,Active,16,Chronic Issues,1.02
+46,0,70,173,27,62,Very Active,77,Chronic Issues,5.03
+20,0,86,164,23,39,Sedentary,46,Healthy,1.48
+37,0,91,187,25,79,Active,65,Chronic Issues,2.17
+53,1,95,157,33,87,Very Active,74,Chronic Issues,5.75
+36,1,54,154,33,89,Active,74,Healthy,3.16
+43,0,68,197,33,69,Very Active,56,Chronic Issues,3.92
+20,0,47,175,28,50,Very Active,29,Chronic Issues,2.76
+36,1,44,167,29,57,Sedentary,28,Chronic Issues,1.0
+37,1,68,155,22,40,Very Active,38,Chronic Issues,6.5
+49,0,86,186,32,84,Active,83,Healthy,3.24
+24,0,107,197,35,63,Very Active,69,Chronic Issues,3.68
+69,1,115,162,35,37,Very Active,27,Chronic Issues,3.6
+58,0,84,177,22,88,Sedentary,101,Chronic Issues,2.03
+50,0,41,154,35,51,Very Active,44,Chronic Issues,6.5
+57,0,66,162,35,37,Very Active,52,Healthy,3.13
+56,1,75,166,29,78,Active,120,Chronic Issues,3.15
+35,1,75,199,29,44,Sedentary,104,Healthy,3.19
+57,1,65,189,29,46,Sedentary,100,Chronic Issues,1.57
+18,1,82,194,30,89,Sedentary,20,Healthy,2.27
+28,1,66,181,25,52,Very Active,58,Healthy,6.5
+45,1,108,178,28,53,Sedentary,47,Healthy,2.07
+42,1,59,200,32,74,Very Active,73,Healthy,2.8
+67,0,50,152,32,48,Very Active,78,Healthy,3.56
+40,0,113,189,31,34,Active,17,Chronic Issues,1.72
+48,0,77,183,25,61,Active,43,Chronic Issues,1.71
+47,0,45,189,29,73,Active,57,Chronic Issues,1.6
+59,0,111,176,29,30,Active,65,Healthy,2.79
+52,0,62,162,31,52,Active,85,Chronic Issues,2.61
+24,0,86,194,26,66,Very Active,111,Healthy,4.15
+33,1,85,182,27,37,Very Active,74,Healthy,6.5
+43,1,51,155,28,42,Sedentary,40,Chronic Issues,1.22
+65,0,52,173,18,37,Very Active,13,Chronic Issues,3.66
+69,0,101,168,33,86,Very Active,118,Healthy,6.28
+66,1,99,165,33,52,Active,59,Healthy,2.99
+19,0,82,189,33,72,Very Active,78,Chronic Issues,3.74
+18,0,115,177,30,30,Active,39,Chronic Issues,2.18
+65,1,107,182,28,74,Sedentary,97,Chronic Issues,2.48
+29,0,44,197,35,80,Sedentary,68,Chronic Issues,1.7
+22,1,76,190,30,53,Very Active,76,Healthy,4.09
+54,0,111,162,33,64,Sedentary,84,Chronic Issues,2.3
+49,1,70,192,23,53,Very Active,54,Chronic Issues,3.86
+26,1,48,194,33,46,Sedentary,13,Chronic Issues,1.0
+58,1,90,174,32,34,Active,35,Healthy,2.54
+52,0,68,191,33,49,Active,36,Healthy,2.16
+36,1,117,185,23,50,Active,55,Healthy,2.81
+65,0,79,176,33,69,Active,116,Healthy,3.79
+33,0,80,187,23,87,Very Active,73,Chronic Issues,6.21
+20,0,50,156,28,60,Sedentary,100,Healthy,2.7
+37,0,62,154,20,75,Very Active,115,Chronic Issues,6.5
+41,1,40,192,35,65,Active,60,Chronic Issues,1.9
+50,1,85,194,26,40,Very Active,59,Chronic Issues,2.58
+41,0,60,200,19,81,Sedentary,15,Chronic Issues,1.0
+69,0,75,180,33,44,Very Active,68,Healthy,5.95
+28,1,93,172,30,48,Sedentary,24,Healthy,1.71
+66,0,96,191,33,36,Very Active,39,Healthy,4.98
+25,1,40,159,29,80,Sedentary,51,Chronic Issues,1.3
+53,0,102,181,26,57,Sedentary,110,Chronic Issues,2.18
+55,0,93,192,32,80,Active,46,Chronic Issues,2.71
+57,1,94,179,29,72,Sedentary,51,Chronic Issues,1.2
+37,0,79,188,25,87,Active,110,Chronic Issues,2.49
+52,1,54,180,30,34,Active,44,Healthy,2.49
+65,0,60,167,20,34,Active,96,Chronic Issues,2.45
+42,0,86,185,28,59,Very Active,15,Healthy,5.57
+52,0,112,151,32,83,Very Active,77,Chronic Issues,5.19
+42,1,92,163,26,61,Very Active,27,Chronic Issues,3.28
+46,0,48,162,25,37,Very Active,82,Healthy,6.5
+35,0,113,178,27,39,Sedentary,38,Healthy,2.09
+63,0,91,161,35,67,Sedentary,86,Chronic Issues,1.88
+35,0,96,188,25,76,Very Active,68,Chronic Issues,4.02
+19,1,65,151,30,61,Sedentary,56,Chronic Issues,1.45
+52,1,80,181,29,77,Sedentary,26,Chronic Issues,1.0
+33,0,74,162,35,57,Active,118,Healthy,3.55
+58,1,102,195,29,46,Active,105,Chronic Issues,3.11
+53,0,64,176,35,60,Active,31,Healthy,1.97
+50,0,114,198,25,37,Active,77,Chronic Issues,2.4
+21,0,77,190,33,69,Sedentary,78,Healthy,2.57
+50,1,41,166,29,54,Very Active,46,Healthy,3.29
+31,1,46,189,36,38,Sedentary,114,Chronic Issues,2.08
+38,1,73,180,35,31,Sedentary,58,Healthy,1.97
+65,1,56,183,27,44,Sedentary,22,Chronic Issues,1.0
+37,1,82,173,33,79,Active,43,Healthy,2.11
+25,1,98,194,37,32,Active,118,Chronic Issues,3.04
+24,1,90,184,28,78,Active,95,Healthy,3.15
+20,1,93,197,18,65,Very Active,62,Chronic Issues,6.5
+34,1,63,155,30,33,Sedentary,96,Chronic Issues,2.09
+50,0,64,168,35,43,Very Active,60,Healthy,5.29
+65,1,110,179,34,70,Active,12,Healthy,2.49
+29,1,91,156,28,70,Very Active,51,Healthy,6.5
+68,1,109,159,29,54,Sedentary,107,Healthy,2.93
+39,1,72,190,38,87,Sedentary,41,Chronic Issues,1.1
+39,1,88,181,22,84,Active,118,Healthy,3.49
+63,1,68,183,30,79,Active,60,Chronic Issues,1.88
+47,1,102,177,24,39,Very Active,94,Healthy,3.88
+55,1,61,164,18,50,Active,55,Chronic Issues,1.37
+55,1,65,179,32,65,Active,117,Chronic Issues,3.03
+62,1,67,186,16,41,Sedentary,30,Chronic Issues,1.09
+68,1,88,178,31,56,Active,53,Chronic Issues,2.02
+25,0,110,171,27,69,Active,20,Healthy,2.54
+44,0,120,153,18,31,Sedentary,112,Healthy,3.23
+44,1,88,169,25,83,Sedentary,77,Chronic Issues,1.69
+51,1,59,181,21,42,Very Active,10,Healthy,6.5
+38,0,102,185,26,82,Active,101,Healthy,3.47
+47,1,100,199,24,61,Sedentary,72,Chronic Issues,1.85
+50,0,88,153,21,60,Very Active,33,Healthy,6.5
+45,0,110,176,27,45,Very Active,108,Healthy,4.92
+64,0,40,166,21,61,Active,22,Healthy,1.58
+50,0,52,161,31,61,Active,120,Chronic Issues,3.23
+22,0,90,171,24,89,Very Active,107,Healthy,6.36
+65,1,95,166,24,63,Sedentary,20,Chronic Issues,1.55
+36,0,101,159,18,40,Very Active,109,Healthy,3.66
+21,1,71,150,34,39,Active,60,Healthy,3.05
+52,1,69,171,18,44,Sedentary,26,Healthy,1.24
+66,0,68,175,21,46,Sedentary,108,Chronic Issues,2.55
+34,0,88,167,35,69,Very Active,91,Chronic Issues,6.5
+61,1,84,199,26,47,Active,113,Healthy,3.1
+45,0,69,163,27,84,Very Active,95,Chronic Issues,4.7
+47,0,55,196,24,38,Very Active,33,Healthy,4.94
+46,1,79,178,29,54,Very Active,28,Chronic Issues,6.35
+63,1,58,161,27,69,Sedentary,46,Chronic Issues,1.0
+70,0,57,185,35,88,Sedentary,112,Healthy,2.65
+23,1,40,184,23,43,Active,94,Healthy,2.86
+52,0,117,161,23,89,Active,17,Healthy,2.79
+58,0,86,156,29,87,Very Active,37,Healthy,3.42
+54,0,105,178,24,54,Very Active,14,Chronic Issues,1.82
+41,1,77,160,24,79,Very Active,26,Chronic Issues,6.5
+46,1,90,182,22,51,Active,110,Chronic Issues,3.01
+66,1,102,155,30,81,Sedentary,45,Healthy,1.57
+63,1,43,196,31,59,Sedentary,28,Healthy,1.7
+70,1,40,164,35,49,Very Active,73,Chronic Issues,6.5
+48,0,47,181,35,50,Very Active,100,Healthy,6.5
+52,0,68,200,32,73,Very Active,107,Chronic Issues,6.5
+50,0,94,160,33,61,Very Active,20,Chronic Issues,3.89
+69,0,42,172,35,80,Active,63,Chronic Issues,1.79
+38,1,71,175,21,75,Sedentary,54,Chronic Issues,1.62
+49,0,49,183,24,78,Very Active,56,Chronic Issues,4.96
+40,1,113,195,32,85,Active,21,Healthy,2.31
+50,0,73,183,33,50,Very Active,30,Healthy,6.5
+20,1,94,178,35,64,Very Active,20,Healthy,6.5
+35,1,71,153,24,87,Sedentary,112,Chronic Issues,2.06
+42,0,89,166,15,61,Very Active,101,Chronic Issues,5.11
+59,0,46,184,32,59,Sedentary,14,Chronic Issues,1.0
+48,0,47,162,19,84,Sedentary,90,Chronic Issues,1.42
+20,0,104,190,29,68,Sedentary,65,Healthy,2.53
+57,1,96,188,31,78,Active,29,Healthy,2.48
+63,0,106,164,17,41,Active,50,Chronic Issues,2.15
+41,0,98,178,26,70,Sedentary,55,Chronic Issues,1.28
+67,1,111,178,35,76,Very Active,21,Chronic Issues,3.64
+49,0,93,160,36,47,Sedentary,79,Healthy,2.97
+64,0,106,181,35,50,Very Active,26,Healthy,2.32
+39,0,90,151,31,42,Sedentary,28,Healthy,1.52
+40,0,47,196,30,50,Very Active,35,Chronic Issues,6.5
+19,0,73,163,19,37,Active,57,Chronic Issues,2.0
+44,1,74,169,29,75,Very Active,117,Healthy,5.45
+59,0,117,171,37,69,Sedentary,117,Chronic Issues,2.89
+19,0,71,160,21,75,Active,61,Healthy,3.17
+43,0,85,176,25,36,Very Active,105,Chronic Issues,6.5
+34,0,55,152,24,52,Very Active,79,Healthy,6.5
+57,0,107,166,23,73,Very Active,64,Chronic Issues,2.91
+50,1,76,193,28,61,Very Active,109,Healthy,5.49
+26,0,93,177,27,40,Very Active,111,Healthy,6.5
+60,1,53,178,38,51,Active,84,Healthy,2.56
+65,1,94,170,37,51,Active,42,Healthy,2.79
+56,0,87,196,21,72,Active,71,Healthy,2.99
+46,0,46,165,35,54,Active,97,Healthy,2.46
+59,0,113,186,32,51,Sedentary,32,Chronic Issues,1.1
+43,0,46,169,17,57,Active,24,Chronic Issues,1.0
+52,1,72,155,35,58,Very Active,36,Chronic Issues,6.5
+67,0,62,168,21,42,Very Active,84,Healthy,6.25
+42,0,58,154,23,47,Active,73,Healthy,2.98
+41,0,58,152,31,31,Very Active,90,Chronic Issues,5.79
+30,0,75,150,25,58,Active,60,Healthy,3.09
+24,0,68,187,21,50,Very Active,62,Healthy,3.32
+53,0,99,164,28,44,Sedentary,87,Healthy,2.08
+62,1,41,183,33,81,Sedentary,100,Healthy,2.24
+37,1,40,184,18,56,Active,91,Healthy,2.66
+18,0,86,198,20,79,Active,101,Chronic Issues,2.78
+25,0,108,174,24,60,Active,60,Chronic Issues,1.81
+63,0,59,173,21,44,Very Active,56,Chronic Issues,6.5
+33,1,50,161,27,80,Active,120,Chronic Issues,2.38
+31,0,41,167,28,52,Sedentary,13,Chronic Issues,1.0
+29,1,106,164,36,53,Very Active,16,Healthy,6.5
+68,0,51,193,22,73,Active,118,Healthy,2.7
+40,0,59,165,19,42,Very Active,44,Healthy,4.22
+32,0,44,176,35,51,Very Active,57,Healthy,6.5
+45,0,76,157,28,72,Active,82,Chronic Issues,2.41
+51,1,77,195,37,66,Very Active,81,Chronic Issues,3.8
+19,1,48,174,23,90,Sedentary,54,Chronic Issues,1.0
+49,0,92,166,22,62,Sedentary,90,Healthy,2.62
+40,0,83,178,28,85,Very Active,90,Chronic Issues,4.14
+39,1,63,157,20,32,Active,106,Healthy,2.79
+68,1,120,164,23,83,Very Active,105,Chronic Issues,6.3
+42,1,113,176,21,48,Sedentary,81,Chronic Issues,1.74
+39,1,69,195,18,52,Very Active,28,Healthy,2.28
+39,0,98,199,27,58,Very Active,72,Healthy,6.5
+66,1,120,156,31,59,Sedentary,47,Chronic Issues,2.28
+69,0,120,152,16,68,Very Active,76,Chronic Issues,3.17
+59,1,53,178,19,73,Very Active,68,Healthy,6.5
+23,1,48,193,26,76,Active,78,Chronic Issues,2.22
+32,1,79,173,35,54,Active,22,Chronic Issues,1.73
+60,1,105,152,22,66,Sedentary,56,Healthy,1.96
+54,1,64,169,20,76,Sedentary,119,Chronic Issues,2.24
+50,0,112,195,22,37,Sedentary,70,Healthy,2.59
+25,0,61,164,32,71,Active,40,Chronic Issues,1.67
+70,1,43,174,25,87,Sedentary,89,Healthy,1.74
+61,1,65,179,26,45,Sedentary,105,Chronic Issues,1.86
+61,0,97,163,37,37,Sedentary,31,Healthy,1.18
+22,1,68,156,35,30,Active,102,Chronic Issues,2.45
+56,1,76,166,36,73,Very Active,95,Healthy,5.87
+21,0,114,193,26,34,Sedentary,52,Chronic Issues,2.33
+23,1,109,169,37,32,Very Active,76,Chronic Issues,4.09
+62,1,57,185,34,30,Sedentary,63,Chronic Issues,1.56
+49,0,81,158,33,33,Very Active,19,Chronic Issues,2.36
+69,0,80,187,35,69,Active,51,Chronic Issues,2.94
+47,0,77,197,28,64,Active,73,Chronic Issues,2.63
+64,1,73,171,34,61,Sedentary,30,Chronic Issues,1.0
+52,0,56,151,24,71,Very Active,89,Chronic Issues,6.07
+57,0,76,173,26,63,Active,85,Chronic Issues,1.89
+69,0,64,157,36,72,Sedentary,75,Healthy,2.2
+33,0,115,160,35,54,Sedentary,50,Healthy,2.21
+30,0,66,162,27,39,Active,33,Chronic Issues,1.22
+67,0,96,166,29,50,Active,44,Healthy,2.27
+59,1,70,157,30,75,Sedentary,65,Chronic Issues,1.16
+47,1,45,170,24,68,Very Active,39,Chronic Issues,6.45
+36,0,79,167,30,56,Very Active,66,Healthy,6.21
+34,0,51,179,26,56,Very Active,103,Chronic Issues,6.5
+36,0,92,167,31,31,Sedentary,56,Chronic Issues,2.14
+45,1,110,195,30,70,Active,44,Healthy,2.76
+43,1,49,196,26,77,Sedentary,28,Healthy,1.0
+54,1,84,180,22,42,Active,17,Chronic Issues,1.82
+43,1,56,187,34,38,Very Active,35,Healthy,5.95
+70,1,65,181,36,81,Very Active,113,Healthy,6.5
+40,1,101,160,30,65,Active,80,Chronic Issues,2.65
+26,1,85,194,27,51,Active,39,Healthy,2.18
+29,1,103,174,33,71,Sedentary,16,Healthy,1.37
