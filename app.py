@@ -11,7 +11,7 @@ with open("model/lr_intake.pkl", "rb") as f:
     model = cloudpickle.load(f)
 
 # Debug: check type and attributes
-# st.write("Model type:", type(model))
+st.write(type(model))
 # st.write("Has predict method:", hasattr(model, "predict"))
 
 
@@ -60,29 +60,57 @@ with right_col:
     prediction_value = None
     hydration_percentage = 0
 
+    # if st.button("Predict Water Intake"):
+    #     # -------------------- Data Preparation --------------------
+    #     input_data = pd.DataFrame({
+    #         'Age': [age],
+    #         'Gender': [1 if gender == "Male" else 0],
+    #         'Weight_kg': [weight],
+    #         'Height_cm': [height],
+    #         'Temperature_C': [temperature],
+    #         'Humidity': [humidity],
+    #         'Activity_Level': [activity],
+    #         'Exercise_Duration_min': [exercise],
+    #         'Health_Condition': [health]
+    #     })
+
+    #     # Make prediction safely
+
+    #     prediction_value = model.predict(input_data)[0]
+    #     remaining = max(0, prediction_value - consumed)
+    #     hydration_percentage = min(100, (consumed / prediction_value) * 100)
+
+    #     st.success(f"💧 Recommended Daily Water Intake: {prediction_value:.2f} liters")
+    #     st.info(f"🚰 Water Left to Drink Today: {remaining:.2f} liters")
     if st.button("Predict Water Intake"):
         # -------------------- Data Preparation --------------------
-        input_data = pd.DataFrame({
-            'Age': [age],
-            'Gender': [1 if gender == "Male" else 0],
-            'Weight_kg': [weight],
-            'Height_cm': [height],
-            'Temperature_C': [temperature],
-            'Humidity': [humidity],
-            'Activity_Level': [activity],
-            'Exercise_Duration_min': [exercise],
-            'Health_Condition': [health]
-        })
+        input_data = pd.DataFrame([{
+            'Age': age,
+            'Gender': 1 if gender == "Male" else 0,
+            'Weight_kg': weight,
+            'Height_cm': height,
+            'Temperature_C': temperature,
+            'Humidity': humidity,
+            'Activity_Level': activity,
+            'Exercise_Duration_min': exercise,
+            'Health_Condition': health
+        }])
 
-        # Make prediction safely
+        # -------------------- Debug Preview --------------------
+        st.write("Input shape:", input_data.shape)
+        st.write("Input preview:", input_data)
 
-        prediction_value = model.predict(input_data)[0]
-        remaining = max(0, prediction_value - consumed)
-        hydration_percentage = min(100, (consumed / prediction_value) * 100)
+        # -------------------- Prediction --------------------
+        try:
+            prediction_value = model.predict(input_data)[0]
+            remaining = max(0, prediction_value - consumed)
+            hydration_percentage = min(100, (consumed / prediction_value) * 100)
 
-        st.success(f"💧 Recommended Daily Water Intake: {prediction_value:.2f} liters")
-        st.info(f"🚰 Water Left to Drink Today: {remaining:.2f} liters")
-
+            st.success(f"Predicted daily water intake: {prediction_value:.2f} ml")
+            st.info(f"Remaining intake: {remaining:.2f} ml")
+            st.progress(hydration_percentage / 100)
+        except Exception as e:
+            st.error(f"Prediction failed: {e}")
     st.markdown('</div>', unsafe_allow_html=True)
 
 # -------------------- LEFT COLUMN: Description + Hydration Glass --------------------
